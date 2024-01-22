@@ -1,0 +1,44 @@
+form{
+    margin: auto;
+    width: 30%;
+    background-color: #5d1c1c;
+    height: 500px;
+    padding: 30px;
+
+}
+input[type=text],input[type=password]{
+margin-left: 30px;
+}
+body{
+    background-color: #853d3d;
+}
+button{
+    height: 30px;
+    border-radius: 5px;
+    width: 100%;
+    font-size: large;
+}
+#name{
+    margin-left: 70px;
+}
+#email {
+    margin-left: 70px
+}
+#pass{
+    margin-left: 47px;
+}
+#phone{
+    margin-left: 15px;
+}
+#male{
+    margin-left: 60px;
+}
+#nationality{
+    margin-left: 46px
+}
+#zip{
+    margin-left: 50px;
+}
+#abt{
+    margin-left: 70px;
+}

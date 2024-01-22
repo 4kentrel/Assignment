@@ -1,0 +1,13 @@
+.Division1{
+    display: flex;
+    padding: 20px;
+}
+.Division2{
+    display: flex;
+    padding: 20px;
+}
+.Division3{
+    display: flex;
+    padding-right: 20px;
+    padding-left: 20px;
+}

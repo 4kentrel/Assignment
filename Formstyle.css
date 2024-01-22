@@ -1,0 +1,42 @@
+form{
+    background-color: aqua;
+    margin: auto;
+    width: 40%;
+    padding: 50px;
+}
+legend{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+input[type=text],input[type=date],input[type=radio]{
+    margin-left: 50px;
+
+}
+.button1{
+    background-color: chartreuse;
+    border-radius: 5px;
+}
+.button2{
+    background-color: blue;
+    margin-left: 200px;
+    border-radius: 5px;
+}
+#Yob{
+    margin-left: 60px;
+}
+#Yod{
+    margin-left: 65px;
+}
+#assigned{
+    margin-left: 45px;
+}
+#pname{
+    margin-left: 36px;
+}
+#priority{
+    margin-left: 20px;
+}
+#person{
+    margin-left: 45px;
+}
